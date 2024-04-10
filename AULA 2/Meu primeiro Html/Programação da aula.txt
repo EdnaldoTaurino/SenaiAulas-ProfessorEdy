@@ -1,0 +1,11 @@
+Iniciar com o git todos enviando os exercicios de ontem
+relembrar o slide de ontem ver se ficou alguma duvida
+verificar o exercicio que copiaram e corrigir
+enviar esse exercicio
+criar novos exercicios que será sia da semana dia da semana 2 dia da semana 3 e positivo e negativo mandar todos copiarem
+novo exercicio em if e else elseifidade.js
+
+fazer o quiz do js
+
+talvez se der tempo iniciar o slide react native com expo
+
